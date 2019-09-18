@@ -1,0 +1,116 @@
+html
+{
+    background-image: url("abstract-expressionism-abstract-painting-acrylic-paint-1789968.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    padding: 0;
+}
+.peram
+{
+    border: black solid 5px;
+    width: 50%;
+    background-color: white;
+    color: black;
+    margin-left: 22%;
+    margin-top: 6%;
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+}
+/*.aside-left*/
+/*{*/
+/*    float: left;*/
+/*    margin-right: 50%;*/
+/*}*/
+.aside-right
+{
+    /*float: right;*/
+}
+#arts
+{
+    width: 90%;
+}
+#wind
+{
+    width: 90%;
+
+}
+#line
+{
+    border: black solid 10px;
+    position: fixed;
+
+}
+#head
+{
+    text-align: center;
+    border: black solid 2px;
+    margin: 5%;
+}
+.header
+{
+    font-weight: bold;
+    font-size: 110px;
+    color: white;
+    /*border: white solid 3px;*/
+    text-align: center;
+    top: 0;
+    /*margin-bottom: 50px;*/
+    /*padding: 10px 16px;*/
+    /*padding-right: 200px;*/
+    /*margin-left: 80px;*/
+    /*background-image: url("abstract-expressionism-abstract-painting-acrylic-paint-1789968.jpg") ;*/
+}
+.P
+{
+    font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    color: black;
+    border: black solid 3px;
+    padding: 16px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+
+    float: none;
+
+}
+
+h2
+{
+    color: black;
+    background-color: white;
+    border: black solid 1px ;
+}
+#R
+{
+    font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    color: black;
+    border: black solid 3px;
+    padding: 16px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: lightgrey;
+    margin-top: 100px;
+    float: none;
+}
+#navigation1
+{
+    border: black solid 2px;
+    background: white;
+    margin-right: 70%;
+    float: left;
+    padding-left: 2px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    position: fixed;
+
+}

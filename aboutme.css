@@ -1,0 +1,47 @@
+html
+{
+    background-image: url("blu.smoke.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    padding: 0;
+}
+#box
+{
+    border: white solid 5px;
+    width: 50%;
+    background-color: black;
+    color: lightgrey;
+    margin-left: 22.5%;
+    margin-top: 6%;
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+}
+.left
+{
+    text-align: left;
+}
+.bord
+{
+    border: white solid 1px;
+}
+
+
+#navigation3
+{
+    border: white solid 2px;
+    background: black;
+    margin-right: 70%;
+    float: left;
+    padding-left: 2px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    position: fixed;
+    color: lightgrey;
+
+}

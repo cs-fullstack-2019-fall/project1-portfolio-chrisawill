@@ -1,0 +1,99 @@
+html
+{
+    /*background-image: url("blknblu.jpg");*/
+    background-image: url("blugal.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    padding: 0;
+}
+
+
+body
+{
+    padding-top: 20%;
+    border: white solid 6px;
+}
+#cinzel
+{
+
+    font-family: Cinzel, serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    /*margin-top: 200px;*/
+    /*border: white solid 3px;*/
+}
+#cinzel:hover
+{
+    color: black;
+    /*background-color:white ;*/
+    background-image: url("painback.jpg");
+}#headline
+ {
+    text-align: center;
+ }
+#gloria
+{
+    font-size: 34px;
+    margin-bottom: 20%;
+    margin-top: 0px;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    /*border: white solid 3px;*/
+}
+#gloria:hover
+{
+  color: black;
+    background-image: url("painback2.jpg");
+}
+#orbitron
+{
+    font-size: 50px;
+    padding-bottom: 1.1%;
+    padding-top: 3%;
+    text-align: center;
+    /*border: white solid 3px;*/
+}
+#orbitron:hover
+{
+    color: black;
+    background-image: url("painback3.jpg");
+}
+.white
+{
+    color:white;
+    font-weight: bold;
+    border: white solid 3px;
+}
+#mid
+{
+    text-align: center;
+}
+.asideright
+{
+    margin-top: 10%;
+    float: right;
+    /*margin-right: 30px;*/
+}
+.asideleft
+{
+    float: none;
+}
+footer
+{
+    text-align: center;
+    margin: 10%;
+}
+/*a*/
+/*{*/
+/*    color: white;*/
+/*    text-underline: none;*/
+/*    text-underline: none;*/
+/*}*/

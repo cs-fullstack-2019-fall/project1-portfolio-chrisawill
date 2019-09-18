@@ -1,0 +1,71 @@
+html
+{
+    background-image: url("access-close-up-code-1089438.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    padding: 0;
+}
+h1
+{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+h2
+{
+    font-size: 30px;
+}
+body
+{
+    /*border: white solid 3px;*/
+}
+#blank1
+{
+    /*border: white solid 3px;*/
+    color: black;
+    background-image: url("blanksscreen.png");
+    margin-bottom: 100px;
+    padding-bottom: 500px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+
+
+}
+
+#blank2
+{
+    /*border: white solid 3px;*/
+    color: black;
+    background-image: url("blanksscreen.png");
+    margin-bottom: 100px;
+    padding-bottom: 500px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+
+}
+.down
+{
+    padding-top: 60px;
+
+}
+#small
+{
+    width: 100px;
+}
+#navigation2
+{
+    border: #B1A8BC solid 3px;
+    background: white;
+    margin-right: 70%;
+    float: left;
+    padding-left: 2px;
+    padding-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    position: fixed;
+    color: black;
+}
