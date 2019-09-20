@@ -56,3 +56,6 @@ Make sure you include the following pages:
 - http://sorenromer.com/
 - https://www.clemsonwebdesign.com/
 - https://daneden.github.io/animate.css/
+
+### Kenn's Notes:
+You were close, but the pages are not consistanct in structure or style. Also, navigation is not complete and the resume is very difficult to find.
