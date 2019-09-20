@@ -7,11 +7,16 @@ html
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    padding:190px;
+    padding-top:150px;
+    /*border: black solid 5px;*/
 }
 body
 {
     /*overflow: hidden;*/
+}
+.moveover
+{
+    margin-left: 40px;
 }
 .group
 {
@@ -20,6 +25,7 @@ body
     font-size: 40px;
     font-weight: bolder;
     color: beige;
+    margin-left: 100px;
 }
 img
 {
@@ -32,21 +38,33 @@ img
 }
 header
 {
-    color: beige;
+    color: White;
+    font-size: 90px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 80px;
+    margin-left: 50px;
+    padding-left: 80px;
+    /*border: white solid 3px;*/
+    /*padding-right: 60px;*/
+    /*padding-left: 400px;*/
 
 }
 #navigation4
 {
-    border: #B1A8BC solid 3px;
+    border: black solid 2px;
     background: white;
-    margin-right: 70%;
+    margin-right: 100%;
     float: left;
     padding-left: 2px;
     padding-right: 20px;
     font-size: 18px;
     font-weight: bold;
-    /*position: fixed;*/
-    color: black;
+    position: fixed;
+}
+#spacing
+{
+    margin-bottom: 200px;
 }
 
 

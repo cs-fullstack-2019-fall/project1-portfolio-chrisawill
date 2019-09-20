@@ -7,7 +7,17 @@ html
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    padding: 0;
+    /*padding: 130px;*/
+}
+#Head
+{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bolder;
+    border: white solid 3px;
+    padding-left: 5%;
+    margin-bottom: 40px;
 }
 #box
 {
@@ -43,5 +53,10 @@ html
     font-weight: bold;
     position: fixed;
     color: lightgrey;
+    margin-top: 140px;
 
+}
+#bigg
+{
+    font-size: 24px;
 }

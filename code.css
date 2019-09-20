@@ -27,12 +27,14 @@ body
 {
     /*border: white solid 3px;*/
     color: black;
-    background-image: url("blanksscreen.png");
+    background-image: url("blanksscreen2.png");
     margin-bottom: 100px;
-    padding-bottom: 500px;
+    padding-bottom: 300px;
     background-repeat: no-repeat;
     padding-left: 30px;
-
+    margin-left: 26%;
+    padding-right: 30px;
+    /*margin-right: 1%;*/
 
 }
 
@@ -40,19 +42,23 @@ body
 {
     /*border: white solid 3px;*/
     color: black;
-    background-image: url("blanksscreen.png");
+    background-image: url("blanksscreen2.png");
     margin-bottom: 100px;
-    padding-bottom: 500px;
+    padding-bottom: 300px;
     background-repeat: no-repeat;
-    padding-left: 30px;
+    padding-left: 26px;
+    margin-left: 26%;
+    padding-right: 30px;
+
 
 }
 .down
 {
     padding-top: 60px;
 
+
 }
-#small
+.small
 {
     width: 100px;
 }
@@ -68,4 +74,18 @@ body
     font-weight: bold;
     position: fixed;
     color: black;
+    margin-top: 90px;
+}
+#biggg
+{
+    font-size: larger;
+}
+#smalll
+{
+    margin-left: 5px;
+    padding-right: 40%;
+}
+.space
+{
+    /*padding-right: 3px;*/
 }
